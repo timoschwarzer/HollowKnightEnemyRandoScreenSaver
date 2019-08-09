@@ -1,0 +1,9 @@
+﻿<Application x:Class="Hollow_Knight_Screensaver.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Hollow_Knight_Screensaver"
+             Startup="ApplicationStartup">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
